@@ -1,1 +1,1 @@
-nuget.exe pack .\nugetFiles\ClearScript.V8.nuspec  -Prop version=5.4.9
+nuget.exe pack .\nugetFiles\ClearScript.V8.nuspec  -Prop version=5.5.0
